@@ -19,8 +19,8 @@
 
 ```text
 .
-├── 01-eight-queens/                    # 代码 + 报告
-├── 02-robot-nav/                       # 代码 + 报告 + 图片
-├── 03-mnist-garbage-classification/   # 代码 + 报告 + 图片
-├── 04-poem2paint/                      # 代码 + 报告 + 图片 + 数据集
+├── 01-eight-queens/                    # 代码
+├── 02-robot-nav/                       # 代码 + 图片
+├── 03-mnist-garbage-classification/   # 代码 + 图片
+├── 04-poem2paint/                      # 代码 + 图片 + 数据集
 └── README.md
